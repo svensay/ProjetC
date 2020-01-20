@@ -1,0 +1,10 @@
+#voici un commentaire 
+#il ne doit pas etre pris en compte
+#par les commandes !
+#meme nb de champs (2)
+/
+champ0/champ1/champ2
+1234/5678/90
+//
+/un/deux
+zero/un/
